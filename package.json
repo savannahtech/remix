@@ -34,7 +34,7 @@
     "i18next-browser-languagedetector": "7.2.0",
     "i18next-fs-backend": "2.3.1",
     "i18next-http-backend": "2.4.3",
-    "isbot": "4.4.0",
+    "isbot": "5.1.2",
     "lucide-react": "0.321.0",
     "magic-sdk": "22.0.1",
     "next-themes": "0.2.1",
